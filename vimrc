@@ -1,6 +1,7 @@
 set hls
 syntax on 
 set shiftwidth=4
+set exrc
 set tabstop=4
 set autoindent
 set smartindent
